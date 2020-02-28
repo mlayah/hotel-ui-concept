@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Screenshot
-<img src="mock2.png"/>
+<img src="screen.jpg"/>
 
 ## Getting Started
 
