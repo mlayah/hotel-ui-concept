@@ -1,4 +1,4 @@
-# tipco
+# Hotel UI Flutter Concept
 
 A new Flutter project.
 
